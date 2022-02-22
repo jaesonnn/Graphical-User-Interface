@@ -150,7 +150,7 @@ void Notepad::saveAs()
     file.close();
 }
 
-// notifies the user that changes have been made by adding an asterisk by the widget's file name
+// notifies the user that changes have been made by adding an asterisk by the widget's file name.
 void Notepad::markChange()
 {
     QString file = "New";
