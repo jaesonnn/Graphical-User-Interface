@@ -4,7 +4,7 @@
  * Program Name: FloydAck_2019120154_Lab1
 */
 
-#include "MainMenu.h"
+#include "MainMenu.h" 
 
 MainMenu::MainMenu(QWidget *parent) : QWidget(parent)
 {
